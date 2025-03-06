@@ -14,7 +14,7 @@ local words = {
     "stop",
     "butter",
     "astronomy",
-    "Archeologist",
+    "Archaeologist",
     "basketball",
     "trophy",
     "fjord",
@@ -406,6 +406,8 @@ local words = {
 "forest",
 "hydroelectric",
 "pen"
+"science"
+"horse"
 }
 
 local uniqueWords = {}
